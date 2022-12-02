@@ -1,0 +1,7 @@
+{
+  "PGUSER": "postgres",
+  "PGHOST": "localhost",
+  "PGPASSWORD": "root",
+  "PGDATABASE": "scoutapp",
+  "PGPORT": "5432"
+}
